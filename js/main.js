@@ -379,4 +379,5 @@ var initVideoDetection = function() {
 
 $(function() {
   initVideoDetection();
+  setup()
 });
